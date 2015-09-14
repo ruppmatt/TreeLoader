@@ -1,5 +1,8 @@
-DerrivedData/
+DerrivedData
 Objs/
 Bin/
 .swp
+build/
+xcuserdata/
+profile
 
