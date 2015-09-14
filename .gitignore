@@ -6,4 +6,9 @@ build/
 xcuserdata/
 profile
 *.xcuserstate
+Backup/
+Debug/
+Release/
+*.filters
+*.sdn
 
