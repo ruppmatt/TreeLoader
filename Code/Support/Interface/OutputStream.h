@@ -74,8 +74,10 @@ public:
   OutputStream &operator<<(std::ios_base& ( *pf )(std::ios_base&))
   { if(o != 0 && showState == true) { *o << pf; } return *this; }
 
+  /*
   OutputStream &operator<<(const std::ostream &pf)
   { if(o != 0 && showState == true) { *o << pf; } return *this; }
+  */
 };
 
 #endif // __Support_Interface_OutputStream_h__
