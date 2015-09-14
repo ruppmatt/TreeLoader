@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo Bin/TreeLoader -h Data2/CD3LOSSY100KEV5KPR_ECOSTBL_OP250_8100_historic_dump.120000 -d Data2/CD3LOSSY100KEV5KPR_ECOSTBL_OP250_8100_detail_pop.120000 -t 120000 -l 100 -s 10 -f -r -g
+
+Bin/TreeLoader -h Data2/CD3LOSSY100KEV5KPR_ECOSTBL_OP250_8100_historic_dump.120000 -d Data2/CD3LOSSY100KEV5KPR_ECOSTBL_OP250_8100_detail_pop.120000 -t 120000 -l 100 -s 10 -f -r -g
+
